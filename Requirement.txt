@@ -1,0 +1,8 @@
+Python Library require for sentiment analysis
+pandas
+numpy
+scipy
+matplotlib
+nltk
+scikit-learn
+openpyxl
